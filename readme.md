@@ -2,7 +2,7 @@
 
 ## Účel
 
-Pro zábavu. A taky test
+Pro zábavu. A taky test přímé **editace v GHB**.
 
 ## Prostředky
 
