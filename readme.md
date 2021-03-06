@@ -2,7 +2,7 @@
 
 ## Účel
 
-Pro zábavu. 
+Pro zábavu. A taky test
 
 ## Prostředky
 
